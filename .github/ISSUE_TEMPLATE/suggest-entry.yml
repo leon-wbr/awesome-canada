@@ -1,0 +1,63 @@
+name: Suggest an entry
+description: Something useful about Canada that belongs in the list.
+title: "Suggestion: "
+labels: [new-entry]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Government Digital Services
+        - Design Systems
+        - Open Data
+        - Statistics and Census
+        - Maps, Addresses and Postal Services
+        - Weather, Climate and Environment
+        - Transit
+        - Law, Parliament and Elections
+        - Money, Tax and Business
+        - Developer Tools
+        - Science and Research
+        - Tech Community and News
+        - Jobs and Careers
+        - Health and Society
+        - Cities and Travel
+        - Learning, Indigenous Peoples and Culture
+        - Buy Canadian
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: One-line description
+      description: Say what it is, not why it's great.
+      placeholder: R package for Canadian census data.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: It isn't in the list yet.
+          required: true
+        - label: It's maintained (for a repo, a commit in the last two years).
+          required: true
+  - type: markdown
+    attributes:
+      value: Official government material that only lists services is better suggested to [wra-sol's Awesome Canada](https://github.com/wra-sol/awesome-canada#readme).

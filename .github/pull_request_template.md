@@ -1,0 +1,4 @@
+- [ ] One entry per pull request.
+- [ ] Format: `- [Name](https://example.com) - Short description.`
+- [ ] In alphabetical order within its section.
+- [ ] Maintained: for a repo, a commit in the last two years.
