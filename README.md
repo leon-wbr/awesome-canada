@@ -267,4 +267,6 @@ Still useful, but no longer kept up to date.
 
 ## Contributing
 
-Found a dead link, or know something about Canada that belongs here? Please read the [contribution guidelines](contributing.md) first.
+[Report a dead link](https://github.com/leon-wbr/awesome-canada/issues/new?template=dead-link.yml) · [Suggest an entry](https://github.com/leon-wbr/awesome-canada/issues/new?template=suggest-entry.yml) · [Edit the list](https://github.com/leon-wbr/awesome-canada/edit/main/README.md)
+
+Please read the [contribution guidelines](contributing.md) first.

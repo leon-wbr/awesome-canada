@@ -1,0 +1,43 @@
+name: Report a dead or moved link
+description: An entry's link is broken, has moved or the project is no longer maintained.
+title: "Dead link: "
+labels: [broken-link]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: The name of the entry, as it appears in the list.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: new-url
+    attributes:
+      label: New link
+      description: If it moved and you know where to, paste the new address.
+      placeholder: https://
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What happened?
+      options:
+        - Page not found (404) or site gone
+        - Moved to a new address
+        - No longer maintained
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Anything else?
+  - type: markdown
+    attributes:
+      value: Want to fix it yourself? [Edit README.md](https://github.com/leon-wbr/awesome-canada/edit/main/README.md) and GitHub will open a pull request for you.
