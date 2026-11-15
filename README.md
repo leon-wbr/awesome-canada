@@ -218,6 +218,7 @@ For official government material (portals, open data, APIs, maps and calculators
 
 - [Canada Travel](https://github.com/brandonhimpfen/awesome-canada-travel#readme) - Apps, communities, guides and tools for travelling in Canada.
 - [Montréal Things to Do](https://github.com/mmarius/montreal-things-to-do#readme) - Activities, food, parks and day trips in and around Montréal.
+- [No Stairs Please](https://nostairsplease.com/) - Searchable directory of live-music venues across British Columbia and the US with step-free accessibility details, load-in notes, and tour routing.
 - [Parks Canada](https://parks.canada.ca/) - National parks, historic sites and reservations.
 - [r/Calgary Moving Wiki](https://www.reddit.com/r/Calgary/wiki/moving/) - Newcomer guide to Calgary: neighbourhoods, costs and getting around.
 - [Victoria (YYJ)](https://github.com/ianlpaterson/awesome-yyj#readme) - Victoria, BC tech companies, coworking spaces, venues and businesses.
