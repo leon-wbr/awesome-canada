@@ -208,31 +208,16 @@ For official government material (portals, open data, APIs, maps and calculators
 
 ## Immigration and Residency
 
-- [Application Status Tracker](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-status-tracker.html) - IRCC's tracker for Express Entry, spousal sponsorship, work permit, study permit and visitor visa applications.
-- [CanadaVisa Forum](https://www.canadavisa.com/canada-immigration-discussion-board/) - Discussion board where applicants share Express Entry and permanent residence timelines, month by month.
-- [CELPIP](https://www.celpip.ca/) - Computer-based English test accepted for permanent residence and citizenship.
-- [CIC News](https://www.cicnews.com/) - Daily news on Express Entry draws, provincial nominee rounds and immigration policy.
 - [CLB and NCLC Equivalency Charts](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html) - Official tables converting IELTS, CELPIP, PTE Core, TEF Canada and TCF Canada scores to Canadian Language Benchmarks.
 - [CRS Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html) - IRCC's tool for estimating a Comprehensive Ranking System score in Express Entry.
 - [Discover Canada](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html) - The official study guide for the citizenship test.
 - [Express Entry Rounds of Invitations](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html) - Every Express Entry draw with its date, category, number of invitations and CRS cut-off.
 - [Find a Panel Physician](https://secure.cic.gc.ca/PanelPhysicianMedecinDesigne/en/Home) - Doctors approved by IRCC for the immigration medical exam, by country.
-- [IELTS](https://ielts.org/) - English test whose General Training version is accepted for permanent residence.
-- [Immigrant Services Calgary](https://www.immigrantservicescalgary.ca/) - Charity offering settlement, language and job support to newcomers in Calgary.
-- [Moving2Canada](https://moving2canada.com/) - Free guides on Express Entry, provincial nominee programs, IEC work permits and settling in, with weekly draw updates.
-- [MyImmiTracker](https://myimmitracker.com/) - Crowdsourced timelines for Express Entry, spousal sponsorship and citizenship applications.
-- [National Occupational Classification](https://noc.esdc.gc.ca/) - Search for the occupation code Express Entry uses to classify work experience.
 - [Newcomer Services Finder](https://ircc.canada.ca/english/newcomers/services/index.asp) - Search for free, IRCC-funded settlement services by postal code, outside Quebec.
 - [Newcomers to Canada and the CRA](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html) - Tax residency, the first return and applying for benefits as a newcomer.
 - [Physical Presence Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/how/physical-presence.html) - Counts days in Canada toward the 1,095 needed for citizenship, including credit for time before permanent residence.
 - [Police Certificates by Country](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how.html) - How to get the police certificate IRCC asks for from each country.
-- [Processing Times](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html) - IRCC's current processing-time estimates by application type, updated weekly.
-- [PTE Core](https://www.pearsonpte.com/pte-core/) - Computer-based English test accepted for economic immigration and citizenship.
 - [r/ImmigrationCanada Wiki](https://www.reddit.com/r/ImmigrationCanada/wiki/index/) - FAQ, getting-started guide and glossary for immigrating to Canada.
-- [Settlement.Org](https://settlement.org/) - Answers on health cards, SIN, housing, work and schooling for newcomers to Ontario, from the Ontario Council of Agencies Serving Immigrants.
-- [TCF Canada](https://www.france-education-international.fr/test/tcf-canada) - French test accepted for Express Entry and citizenship.
-- [TEF Canada](https://www.lefrancaisdesaffaires.fr/candidat/test-evaluation-francais/tef-canada/presentation/) - French test from the Paris Chamber of Commerce, accepted for Express Entry and citizenship.
-- [WES Credential Evaluation](https://www.wes.org/eca/) - Educational credential assessment (ECA) for Express Entry from World Education Services.
 
 ## Health and Society
 
