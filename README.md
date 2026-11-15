@@ -208,16 +208,25 @@ For official government material (portals, open data, APIs, maps and calculators
 
 ## Immigration and Residency
 
+- [Canadian Citizenship Study Guide](https://github.com/miparnisari/canadian-citizenship-study-guide) - Discover Canada condensed into one page: a history timeline, government, justice, symbols and geography.
+- [Canadian Citizenship Test Practice](https://kcemenike.github.io/canadian-citizenship-test-app/) - Free quiz with 781 questions drawn from Discover Canada, timed 20-question mock tests and a review of missed answers.
+- [cic-processing-times](https://github.com/suhaibmujahid/cic-processing-times) - IRCC's published processing times, scraped regularly since 2021 into CSV and JSON, so the Git history doubles as an archive.
 - [CLB and NCLC Equivalency Charts](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html) - Official tables converting IELTS, CELPIP, PTE Core, TEF Canada and TCF Canada scores to Canadian Language Benchmarks.
 - [CRS Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html) - IRCC's tool for estimating a Comprehensive Ranking System score in Express Entry.
 - [Discover Canada](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html) - The official study guide for the citizenship test.
+- [Express Entry CRS Score Trends](https://skfd.github.io/express_entry_score_stats/) - Charts of every Express Entry cut-off by program and of the candidate pool by score band, rebuilt from IRCC data.
+- [Express Entry Draws API](https://github.com/sagunji/can-ee-draws) - Free JSON API for Express Entry draw history and the CRS distribution of the pool, filterable by year and category.
 - [Express Entry Rounds of Invitations](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html) - Every Express Entry draw with its date, category, number of invitations and CRS cut-off.
 - [Find a Panel Physician](https://secure.cic.gc.ca/PanelPhysicianMedecinDesigne/en/Home) - Doctors approved by IRCC for the immigration medical exam, by country.
+- [IRCC Tracker Local](https://github.com/ericwangbtc/ircc-tracker) - Command-line tool that prints the full raw record behind your own application in IRCC's Application Status Tracker.
 - [Newcomer Services Finder](https://ircc.canada.ca/english/newcomers/services/index.asp) - Search for free, IRCC-funded settlement services by postal code, outside Quebec.
 - [Newcomers to Canada and the CRA](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html) - Tax residency, the first return and applying for benefits as a newcomer.
+- [Permanent Residents – Monthly IRCC Updates](https://open.canada.ca/data/en/dataset/f7e5498e-0ad8-4417-85c9-9b8aff9b9eda) - Monthly counts of new permanent residents since 2015 by province, city, category, citizenship, occupation, age and gender.
 - [Physical Presence Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/how/physical-presence.html) - Counts days in Canada toward the 1,095 needed for citizenship, including credit for time before permanent residence.
 - [Police Certificates by Country](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how.html) - How to get the police certificate IRCC asks for from each country.
+- [PTE Sub-Scores Breakdown](https://github.com/Gaohaoyang/pte-crx) - Browser extension that shows PTE sub-scores, CLB levels and the Express Entry points they earn on the Pearson score page.
 - [r/ImmigrationCanada Wiki](https://www.reddit.com/r/ImmigrationCanada/wiki/index/) - FAQ, getting-started guide and glossary for immigrating to Canada.
+- [TI no Canadá](https://ti-no-canada.github.io/) - Portuguese-language guides to immigration, job hunting and cities from a community of Brazilian tech workers in Canada.
 
 ## Health and Society
 
