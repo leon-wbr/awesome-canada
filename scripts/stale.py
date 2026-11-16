@@ -11,7 +11,7 @@ import sys
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
-SKIP = {"Contents", "Unmaintained & Archived", "Contributing"}
+SKIP = {"Contents", "Contributing"}
 ENTRY = re.compile(r"^- \[([^\]]+)\]\(https://github\.com/([\w.-]+)/([\w.-]+)(?:[/#][^)]*)?\)")
 
 
@@ -59,7 +59,7 @@ def main(readme, days=730):
         slug = os.environ.get("GITHUB_REPOSITORY", "leon-wbr/awesome-canada")
         print(
             f"These GitHub entries are archived or have had no commit in {days} days. "
-            f"If one is still useful, move it to [Unmaintained & Archived](https://github.com/{slug}#unmaintained--archived) "
+            f"If one is still useful, move it to [Unmaintained & Archived](https://github.com/{slug}/blob/main/unmaintained.md) "
             "with the year of its last commit; otherwise remove it. Updated monthly by the stale-check workflow.\n"
         )
         print("\n".join(rows))

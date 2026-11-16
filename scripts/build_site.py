@@ -39,8 +39,12 @@ p.lead { font-size:18px; color:var(--muted); margin:0; }
 """
 
 
+def href(url):
+    return url if ":" in url else f"https://github.com/{REPO}/blob/main/{url}"
+
+
 def inline(text):
-    return LINK.sub(lambda m: f'<a href="{escape(m[2])}">{m[1]}</a>', escape(text, quote=False))
+    return LINK.sub(lambda m: f'<a href="{escape(href(m[2]))}">{m[1]}</a>', escape(text, quote=False))
 
 
 def report_url(name, url):

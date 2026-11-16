@@ -28,7 +28,6 @@ Also as a website, with a "Report broken link" button on every entry: [leon-wbr.
 - [Cities and Travel](#cities-and-travel)
 - [Learning, Indigenous Peoples and Culture](#learning-indigenous-peoples-and-culture)
 - [Buy Canadian](#buy-canadian)
-- [Unmaintained & Archived](#unmaintained--archived)
 
 ## Government Digital Services
 
@@ -267,21 +266,6 @@ Also as a website, with a "Report broken link" button on every entry: [leon-wbr.
 - [r/BuyCanadian Directory](https://www.reddit.com/r/BuyCanadian/wiki/index/) - Canadian brands, products, stores and services by category.
 - [Unplug America](https://unplugamerica.ca/) - Canadian alternatives to popular US tech services.
 
-## Unmaintained & Archived
-
-Still useful, but no longer kept up to date.
-
-- [Aurora Design System](https://design.gccollab.ca/) - Design system from ESDC's Digital Enablement Division. Undated and no longer developed; the GC Design System replaced it.
-- [ca-postal-code](https://github.com/joallard/ca-postal-code) - Ruby toolbox for validating, normalising and guessing the region of Canadian postal codes. Last commit 2023.
-- [Canada GTFS geodata](https://github.com/federal-geospatial-platform/canada-gtfs) - Generates geodata for Canadian transit agencies' stops and routes from GTFS feeds. Last commit 2022.
-- [canada_sin](https://github.com/syvb/canada_sin) - Rust crate for validating and parsing Canadian social insurance numbers. Last commit 2020.
-- [Montréal Open Source](https://github.com/opensourcecities/montreal#readme) - Open source companies, people and projects from Montréal. Last commit 2023.
-- [Toronto](https://github.com/rodolfobandeira/awesome-toronto#readme) - Tips for getting around and living in Toronto. Last commit 2022.
-- [Toronto Open Source](https://github.com/opensourcecities/toronto#readme) - Open source companies, people and projects from Toronto. Last commit 2024.
-- [Vancouver Open Source](https://github.com/opensourcecities/vancouver#readme) - Open source companies, people and projects from Vancouver. Last commit 2020.
-- [Wildfire](https://github.com/ubc-lib-geo/awesome-wildfire#readme) - Wildland fire resources from across Canada. Last commit 2021.
-- [Women in Robotics Research in Canada](https://github.com/canada-robotics-research-lists/canada-women-in-robotics-research#readme) - Women with PhDs doing academic robotics research in Canada. Last commit 2024.
-
 ## Contributing
 
 [Report a dead link](https://github.com/leon-wbr/awesome-canada/issues/new?template=dead-link.yml) · [Suggest an entry](https://github.com/leon-wbr/awesome-canada/issues/new?template=suggest-entry.yml) · [Edit the list](https://github.com/leon-wbr/awesome-canada/edit/main/README.md)
@@ -291,3 +275,5 @@ Please read the [contribution guidelines](contributing.md) first.
 ## Footnotes
 
 For official government material (portals, open data, APIs, maps and calculators at every level), see also [wra-sol's Awesome Canada](https://github.com/wra-sol/awesome-canada#readme).
+
+Still useful, but no longer kept up to date: [Unmaintained & Archived](unmaintained.md).

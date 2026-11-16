@@ -20,7 +20,7 @@ jobs:
       - id: lychee
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
-          args: --config lychee.toml --no-progress README.md
+          args: --config lychee.toml --no-progress README.md unmaintained.md
           fail: false
       - id: open
         run: echo "number=$(gh issue list --repo "$GITHUB_REPOSITORY" --author app/github-actions --label broken-link --state open --json number --jq '.[0].number')" >> "$GITHUB_OUTPUT"

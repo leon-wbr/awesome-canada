@@ -4,7 +4,7 @@ Thanks for helping. Fixes are as welcome as new entries.
 
 ## Dead or moved links
 
-If a link is dead or has moved, [report it](https://github.com/leon-wbr/awesome-canada/issues/new?template=dead-link.yml), or [edit README.md](https://github.com/leon-wbr/awesome-canada/edit/main/README.md) to fix or remove it; GitHub opens the pull request for you. If a project has stopped being maintained but is still useful, move it to [Unmaintained & Archived](README.md#unmaintained--archived) with the year of its last commit.
+If a link is dead or has moved, [report it](https://github.com/leon-wbr/awesome-canada/issues/new?template=dead-link.yml), or [edit README.md](https://github.com/leon-wbr/awesome-canada/edit/main/README.md) to fix or remove it; GitHub opens the pull request for you. If a project has stopped being maintained but is still useful, move it to [Unmaintained & Archived](unmaintained.md) with the year of its last commit.
 
 A weekly check keeps one "Broken links" issue up to date, and a monthly one lists repos that are archived or haven't had a commit in two years. Both are labelled `good first issue`: pick any line and send a fix.
 
