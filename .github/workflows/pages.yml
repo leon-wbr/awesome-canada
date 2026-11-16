@@ -3,7 +3,7 @@ name: Pages
 on:
   push:
     branches: [main]
-    paths: [README.md, scripts/build_site.py]
+    paths: [README.md, media/**, scripts/build_site.py]
   workflow_dispatch:
 
 permissions: {}
