@@ -1,6 +1,6 @@
 # Awesome Canada [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of useful resources about Canada: open data, APIs, code, tools, communities and other lists.
+> Canada's open data, public services, code and tech community, and how to live and work there.
 
 For official government material (portals, open data, APIs, maps and calculators at every level), see also [wra-sol's Awesome Canada](https://github.com/wra-sol/awesome-canada#readme).
 
