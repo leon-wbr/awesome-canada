@@ -148,6 +148,7 @@ Also as a website, with a "Report broken link" button on every entry: [leon-wbr.
 - [Bank of Canada Valet API](https://www.bankofcanada.ca/valet/docs) - Exchange rates, interest rates and other Bank of Canada series as JSON, XML or CSV.
 - [cad-capital-gains](https://github.com/EmilMaric/cad-capital-gains) - CLI that computes adjusted cost base and capital gains for Canadian taxes.
 - [Canada Home Energy Rebates](https://github.com/theprincesajjad/canada-home-energy-rebates) - Federal, provincial and utility home-energy rebates, grants and loans.
+- [Canada Tax Planner](https://canadataxplanner.com/) - Federal and provincial income tax and take-home pay calculator, in English and French.
 - [Canada's Business Registries](https://ised-isde.canada.ca/cc/lgcy/hm.html) - Search federal and provincial business registries in one place.
 - [Canadian Dividend Blogs Directory](https://www.tawcan.com/canadian-dividend-blogs-ultimate-directory/) - Canadian dividend-investing blogs, grouped by region.
 - [CRA Payroll Deductions Online Calculator](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html) - Official calculator for CPP, EI and income tax deductions on a pay cheque.
