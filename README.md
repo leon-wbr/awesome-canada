@@ -150,6 +150,7 @@ Also as a website, with a "Report broken link" button on every entry: [leon-wbr.
 - [Canada Home Energy Rebates](https://github.com/theprincesajjad/canada-home-energy-rebates) - Federal, provincial and utility home-energy rebates, grants and loans.
 - [Canada's Business Registries](https://ised-isde.canada.ca/cc/lgcy/hm.html) - Search federal and provincial business registries in one place.
 - [Canadian Dividend Blogs Directory](https://www.tawcan.com/canadian-dividend-blogs-ultimate-directory/) - Canadian dividend-investing blogs, grouped by region.
+- [charity-compliance](https://github.com/jasveerai88/charity-compliance#readme) - Deterministic, local pre-filing check for Canadian registered charities: donation receipts validated against the CRA's official-receipt requirements and a T3010 return pre-flight as one filing-ready receipt.
 - [CRA Payroll Deductions Online Calculator](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html) - Official calculator for CPP, EI and income tax deductions on a pay cheque.
 - [Federal Corporation API](https://ised-isde.canada.ca/site/corporations-canada/en/data-services) - Look up federally incorporated companies by name or number.
 - [finiki](https://finiki.org/) - Canadian financial wiki on investing, tax and retirement.
