@@ -162,7 +162,7 @@ Also as a website, with a "Report broken link" button on every entry: [leon-wbr.
 ## Developer Tools
 
 - [Canada Holidays API](https://canada-holidays.ca/api) - Free JSON API of Canadian statutory holidays by province and year.
-- [Faker (en_CA / fr_CA)](https://faker.readthedocs.io/en/master/locales/en_CA.html) - Generate fake Canadian names, addresses, postal codes and SINs for tests.
+- [Faker (en_CA / fr_CA)](https://github.com/joke2k/faker#readme) - Generate fake Canadian names, addresses, postal codes and SINs for tests.
 - [hols](https://github.com/pcraig3/hols) - Source of canada-holidays.ca and its holidays API.
 - [Language Portal of Canada](https://nos-langues.canada.ca/en/) - Writing tools and guides for English and French from the Translation Bureau.
 - [python-holidays](https://github.com/vacanza/holidays) - Python holidays library with full Canadian provincial and territorial calendars.
