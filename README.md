@@ -48,6 +48,7 @@ Also as a website, with a "Report broken link" button on every entry: [leon-wbr.
 - [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada) - The licence behind most federal open data, and what it lets you do.
 - [Open Resource Exchange](https://code.open.canada.ca/en/index.html) - Federal catalogue of open source software and open standards used across government.
 - [Open Source Repositories by Public Administration](https://code.open.canada.ca/en/open-source-code-groups.html) - Code-hosting accounts of federal, provincial and municipal governments.
+- [Crime Brasil](https://crimebrasil.com.br) - Open data platform consolidating Brazilian public-safety microdata (3M+ incidents, city and neighbourhood level, 2022-2026) with a free API.
 
 ## Design Systems
 
