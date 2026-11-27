@@ -217,6 +217,7 @@ Also as a website, with a "Report broken link" button on every entry: [leon-wbr.
 - [Find a Panel Physician](https://secure.cic.gc.ca/PanelPhysicianMedecinDesigne/en/Home) - Doctors approved by IRCC for the immigration medical exam, by country.
 - [Newcomer Services Finder](https://ircc.canada.ca/english/newcomers/services/index.asp) - Search for free, IRCC-funded settlement services by postal code, outside Quebec.
 - [Newcomers to Canada and the CRA](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html) - Tax residency, the first return and applying for benefits as a newcomer.
+- - [OpenExam Hub](https://openexamhub.org) - Free study planner for official Canadian language exams (TEF, TCF, IELTS, CELPIP) and a CLB/NCLC converter that runs in the browser.
 - [Physical Presence Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/how/physical-presence.html) - Counts days in Canada toward the 1,095 needed for citizenship, including credit for time before permanent residence.
 - [Police Certificates by Country](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how.html) - How to get the police certificate IRCC asks for from each country.
 - [r/ImmigrationCanada Wiki](https://www.reddit.com/r/ImmigrationCanada/wiki/index/) - FAQ, getting-started guide and glossary for immigrating to Canada.
